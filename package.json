@@ -11,9 +11,9 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.14.6",
-    "@strapi/plugin-users-permissions": "4.14.6",
-    "@strapi/plugin-i18n": "4.14.6",
+    "@strapi/strapi": "4.15",
+    "@strapi/plugin-users-permissions": "4.15",
+    "@strapi/plugin-i18n": "4.15",
     "pg": "8.8.0"
   },
   "author": {
@@ -23,7 +23,7 @@
     "uuid": "6102f822-66c8-4744-a934-854bd789b413"
   },
   "engines": {
-    "node": ">=16.0.0 <=20.x.x",
+    "node": ">=18.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
