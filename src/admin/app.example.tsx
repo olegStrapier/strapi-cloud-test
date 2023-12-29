@@ -7,7 +7,7 @@ export default {
       // 'de',
       // 'dk',
       'es',
-      // 'he',
+      'he',
       // 'id',
       // 'it',
       // 'ja',
